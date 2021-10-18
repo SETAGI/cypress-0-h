@@ -1,0 +1,22 @@
+{
+  "name": "cypress-cero-to-hero-api-testing",
+  "version": "1.0.0",
+  "description": "API Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SETAGI/cypress-cero-to-hero-API-testing.git"
+  },
+  "author": "Sebastian Tamayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SETAGI/cypress-cero-to-hero-API-testing/issues"
+  },
+  "homepage": "https://github.com/SETAGI/cypress-cero-to-hero-API-testing#readme",
+  "dependencies": {
+    "cypress": "^8.6.0"
+  }
+}
